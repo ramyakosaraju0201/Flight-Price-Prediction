@@ -4,7 +4,7 @@ import pickle
 import pandas as pd
 
 app = Flask(__name__)
-model = pickle.load(open(r"C:\Users\DELL\Downloads\Flight-Price-Prediction-Application-master\Flight-Price-Prediction-Application-master\flight_price.pkl", "rb"))
+model = pickle.load(open("Codes/flight_rf.pkl", "rb"))
 
 @app.route("/")
 @cross_origin()
