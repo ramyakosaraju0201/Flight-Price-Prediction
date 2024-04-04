@@ -1,8 +1,4 @@
-Team Members:
-             BL.EN.U4CSE20080 - K. Sai Chethan
-             BL.EN.U4CSE20084 - K. Vignaj Reddy
-             BL.EN.U4CSE20088 - M. Sree Deepika
-             BL.EN.U4CSE20111 - N. Sri Lekhya
+
 
 Brief Description:
              A flight price prediction programme that estimates ticket prices based on factors including Arrival date, Destination date source,
